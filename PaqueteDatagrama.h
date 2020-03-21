@@ -6,10 +6,6 @@
 class PaqueteDatagrama {
 public:
 
-/*
-    PaqueteDatagrama(unsigned int);
-*/
-
     PaqueteDatagrama(unsigned int _longitud);
 
     PaqueteDatagrama(char *_datos, unsigned int _longitud, char *_ip, int _puerto);

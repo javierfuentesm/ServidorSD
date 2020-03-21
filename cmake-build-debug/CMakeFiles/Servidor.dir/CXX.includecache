@@ -6,29 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/rjfm/CLionProjects/Servidor/PaqueteDatagrama.cpp
-PaqueteDatagrama.h
 /Users/rjfm/CLionProjects/Servidor/PaqueteDatagrama.h
-cstdlib
--
-string
--
-
-/Users/rjfm/CLionProjects/Servidor/PaqueteDatagrama.h
-
-/Users/rjfm/CLionProjects/Servidor/SocketDatagrama.cpp
-SocketDatagrama.h
-/Users/rjfm/CLionProjects/Servidor/SocketDatagrama.h
-netinet/in.h
--
-arpa/inet.h
--
-netdb.h
--
-cstring
--
-unistd.h
--
 
 /Users/rjfm/CLionProjects/Servidor/SocketDatagrama.h
 netinet/in.h
